@@ -49,12 +49,7 @@ Now that we have that out of the way, here’s a little about me:
 <img src="https://raw.githubusercontent.com/anikeshroyy/anikeshroyy/output/snake.svg" alt="Snake animation" />
 
 ## ⚡ Stats 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikeshroyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikeshroyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  /> -->
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anikeshroyy&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&card_width=430&card_height=120" alt="GitHub Streak" /></a>
-  <img src="https://github-profile-trophy.vercel.app?username=anikeshroyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anikeshroyy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 📬 Let's Connect!  
