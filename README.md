@@ -1,61 +1,158 @@
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Anikesh+Roy!;" />
-</h1>
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=anikeshroyy&color=blueviolet)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Anikesh+Roy!;Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+⚡" />
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=anikeshroyy&color=blueviolet&style=for-the-badge)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikeshroy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anikeshroy.xyz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anikesh_royy)
-<a target="_blank" href="https://dev.to/anikeshx_404" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anikeshx_404)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DevX_AnikeshRoy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikesh.royy)
 
-## <span style="color: red;">I'm a Fullstack Developer</span> 
-
-Let’s get this straight — **Roager** is the GOAT, and I won’t hear otherwise! 😆  
-
-Now that we have that out of the way, here’s a little about me:  
-
-- 💼 Currently working as **Joint Secretary of Development at CODE-CLUB, GEC Jamui**.  
-- 🏗️ Building **Web Applications, Chrome Extensions, and Full-Stack Projects**.  
-- 🎯 Passionate about **Web Development, Competitive Programming, and System Design**.  
-- ✍️ I write about **tech & problem-solving** on https://medium.com/@DevX_AnikeshRoy.  
-- 🎾 Love playing **Badminton** & exploring new tech stacks.  
-- ⛰️ A huge fan of **traveling & discovering new places**.  
-- ⚡ Fun fact: I enjoy **coding late at night, gaming, and watching Netflix**!  
-
-## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, jQuery, React  
-- **Backend:** Express.js (Learning)  
-- **Programming:** C, C++, Java, DSA  
-- **Databases:** MySQL, Firebase (Exploring)  
-- **Other Skills:** API Development, Git, Open Source
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
+---
 
+## 🧑‍💻 About Me
 
-## 🚀 Featured Projects  
-- 📊 **Attendance Management System** – User authentication, dashboards, reporting.  
-- 📜 **Student Test Result Website** – Organized results display with a clean UI.  
-- 🏗 **Ad Space Booking Platform** – Connecting advertisers with land/building owners.  
-- 🛠 **Chrome Extension (Ad Blocker)** – Enhancing the browsing experience.  
+```javascript
+const anikesh = {
+  role:        "Full Stack Developer (MERN)",
+  location:    "Bihar, India 🇮🇳",
+  education:   "B.Tech CSE — GEC Jamui",
+  lookingFor:  "Fresher SWE / Full Stack / Frontend roles",
+  interests:   ["Web Dev", "Competitive Programming", "System Design", "Open Source"],
+};
+```
 
-## 🐍 Contributions
-<img src="https://raw.githubusercontent.com/anikeshroyy/anikeshroyy/output/snake.svg" alt="Snake animation" />
-
-## ⚡ Stats 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anikeshroyy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-## 📬 Let's Connect!  
-💬 Feel free to reach out and collaborate!  
-
-📧 **Email:** anikeshworkmail@gmail.com  
+- 🔭 Currently building **Web Apps, Chrome Extensions & Full-Stack Projects**
+- 🌱 Deepening skills in **Backend Development & System Design**
+- 💬 Ask me about **React, JavaScript, MERN Stack, or DSA**
+- 🏸 Outside the terminal: **Badminton, traveling, Netflix, and late-night gaming**
+- ✍️ I write about tech on [Medium](https://medium.com/@DevX_AnikeshRoy) & [Dev.to](https://dev.to/anikeshx_404)
+- 📬 Reach me at **anikeshworkmail@gmail.com**
 
 ---
-_"When in doubt, leave it out."_ – **Joshua Bloch**  
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🔧 Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💸 iCashIQ</h3>
+      <p align="center">
+        A live production platform with <strong>700+ monthly active users</strong>. Achieved ~85% reduction in page load time through optimization techniques.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 MedChain AI</h3>
+      <p align="center">
+        Medical image analysis using <strong>DenseNet CNN with 92% accuracy</strong> on a 5,600-sample dataset, with Ethereum blockchain for secure report storage.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
+        <a href="https://med-chain-seven.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 HireLens</h3>
+      <p align="center">
+        AI-powered resume parser that cuts recruiter screening time from <strong>5+ minutes to under 2 minutes</strong>. Smart candidate-role matching engine.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <a href="https://resume-parser-project-seven.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚗 Smart Toll Gate</h3>
+      <p align="center">
+        IoT-powered automated toll system built in <strong>~10 days</strong> with sub-2-second alert latency. Real-time vehicle detection and payment processing.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IoT-0078D7?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anikeshroyy/anikeshroyy/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## ⚡ Stats
+
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anikeshroyy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" height="180" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshroyy&theme=github-dark-blue&hide_border=true" height="180" />
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborate · Fresher roles · Full Stack / MERN / Frontend**
+
+📧 [anikeshworkmail@gmail.com](mailto:anikeshworkmail@gmail.com) · 🌐 [anikeshroy.xyz](https://anikeshroy.xyz/) · 💼 [linkedin.com/in/anikeshroy](https://www.linkedin.com/in/anikeshroy)
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=blueviolet&height=80&section=footer)
+
+</div>
