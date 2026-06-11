@@ -151,8 +151,4 @@ const anikesh = {
 
 📧 [anikeshworkmail@gmail.com](mailto:anikeshworkmail@gmail.com) · 🌐 [anikeshroy.xyz](https://anikeshroy.xyz/) · 💼 [linkedin.com/in/anikeshroy](https://www.linkedin.com/in/anikeshroy)
 
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=blueviolet&height=80&section=footer)
-
 </div>
