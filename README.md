@@ -136,13 +136,18 @@ const anikesh = {
 
 ## ⚡ Stats
 
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anikeshroyy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" height="180" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshroyy&theme=github-dark-blue&hide_border=true" height="180" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anikeshroyy?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" height="180" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshroyy&theme=github-dark-blue&hide_border=true" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
