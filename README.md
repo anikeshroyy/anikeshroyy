@@ -101,6 +101,6 @@ const anikesh = {
 
 **Open to collaborate · Fresher roles · Full Stack / MERN / Frontend**
 
-📧 [anikeshworkmail@gmail.com](mailto:anikeshworkmail@gmail.com) · 🌐 [anikeshroy.xyz](https://anikeshroy.xyz/) · 💼 [linkedin.com/in/anikeshroy](https://www.linkedin.com/in/anikeshroy)
+📧 [anikeshworkmail@gmail.com](mailto:anikeshworkmail@gmail.com) · 🌐 [anikeshroy.in](https://anikeshroy.in/) · 💼 [linkedin.com/in/anikeshroy](https://www.linkedin.com/in/anikeshroy)
 
 </div>
